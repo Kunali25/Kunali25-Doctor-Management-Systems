@@ -127,7 +127,9 @@ i)user login
 ![approvedupdate](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/c78f0b33-fdc3-427f-a5a2-8e366e3d3272)
 
 13,approved update
-![approvedupdate](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/738e03b9-d224-4b4c-83ca-619610198e29)
+
+![Screenshot 2024-04-13 202347](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/bf4a0293-d908-4f54-bbc2-40a4cdc3b1bd)
+
 
 
 
