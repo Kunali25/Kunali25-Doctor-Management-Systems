@@ -118,32 +118,30 @@ i)user login
 
 ![newappointmentupdate](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/0a522631-cd8b-497c-88d0-f7a50269b1c5)
 
-11,approved
-
-![approved](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/bc4307c8-90f9-4eb8-a2b3-fed5f5e1bad0)
-
-12, approved view
+11,new appointment action
 
 ![approvedupdate](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/c78f0b33-fdc3-427f-a5a2-8e366e3d3272)
 
-13,approved update
+12, Email
+
+![Email](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/aa9a899b-c614-407d-bde5-4167209c6afe)
+
+
+13,approved
+
+![approved](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/bc4307c8-90f9-4eb8-a2b3-fed5f5e1bad0)
+
+
+14,approved update
 
 ![Screenshot 2024-04-13 202347](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/bf4a0293-d908-4f54-bbc2-40a4cdc3b1bd)
 
 
-
-
-
-13, Email
-
-![Email](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/aa9a899b-c614-407d-bde5-4167209c6afe)
-
-14, completed 
+15, completed 
 
 ![completedpage](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/78705918-c943-4943-8587-999e1a4f783a)
 
-15,admin 
-
+15,admin page
 
 ![adminpage](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/b83ec10e-c30c-4a99-ae05-058cbf5c7c85)
 
