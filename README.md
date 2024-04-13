@@ -78,3 +78,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For inquiries or support, please contact [kunaliyyapan25@gmail.com].
+
+OUTPUT
+i)user login 
+![User login](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/f773a4a5-695b-4bba-b486-18d823d2030d)
+2)doctor login
+![doctor login](https://github.com/Kunali25/Kunali25-Doctor-Management-Systems/assets/128252521/37a565e0-8d5c-4cc6-9f3d-c3bf86439104)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
